@@ -130,3 +130,9 @@ dmypy.json
 *.csv
 .DS_Store
 *.json
+src/learn_eda/scripts.ipynb
+*.ipynb
+*.wandb
+*.txt
+*.yaml
+src/twitbot/wandb/latest-run

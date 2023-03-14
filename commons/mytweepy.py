@@ -1,0 +1,3 @@
+
+from mystrings import *
+
